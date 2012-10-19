@@ -1,0 +1,14 @@
+Java adalah sebuah bahasa pemrograman pada komputer sama seperti pendahulunya c++ . Bahasa pemrograman ini dikembangkan oleh Sun microsystems yang dikembangkan pada tahun 1995 . Awalnya java diciptakan pada tahun 1991 oleh Patrick Naughton, Mike Sheridan , James Gosling dan Bill Joy beserta programer dari Sun Microsystems . Uniknya nama java diambil dari nama pulau jawa ( bahasa inggris dari jawa ) karena James Gosling " Bapak Java " menyukai kopi tubruk yang berasal dari pulau Jawa . Jadi kita perlu berbangga menjadi warga negara Indonesia . 
+
+Java sendiri merupakan bahasa pemrograman yang berbasis objek , maksudnya adalah semua aspek yang terdapat pada java adalah objek sehingga sangat memudahkan untuk mendesain , membuat dan mengembangkan program java dengan cepat . Kelebihan ini membuat program java menjadi mudah untuk digunakan oleh banyak orang . Bahasa pemrograman ini juga dapat digunakan oleh banyak sistem operasi , seperti : Microsoft Windows, Linux, Mac OS, dan Sun Solaris ( Multiplatform ) . 
+
+Kelebihan Java :
+Berorientasi objek , Memudahkan untuk mendesign dan mengembangkan program dengan cepat dan teliti , sehinnga mudah digunakan . Salah satu bahasa pemrograman yang berorientasi objek secara murni .
+Mirip c++, Mempunyai sintaks yang mirip dengan bahasa pemrograman c++ . Sehingga para pengguna c++ banyak yang hijrah menggunakan Java . 
+Multiplatform, Dapat digunakan dibanyak sistem operasi . 
+Perkembangan yang luas, Dari game sampai sistem operasi handphone menggunakan program java . Misalnya Handphone Sonny Ericsson dan Opera Mini 3 yang bertipe .jar ( Java Archive ) .
+Mempunyai pengumpulan sampah otomatis .
+
+Kekurangan Java :
+Proses Compile, Mengharuskan pengguna mengcompile programnya sebelum dijalankan, berbeda dengan bahasa pemrograman python yang tidak perlu mengcompile terlebih dahulu .
+Penggunaan Memori yang besar , Berbeda dengan bahasa pemrograman lain yang hanya membutuhkan memori sedikit
